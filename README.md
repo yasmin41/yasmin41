@@ -1,8 +1,14 @@
 ## 🚀 About Me:
 
-I am a software engineering student with a passion for programming and learning programming languages with experience in backend development.
-I always try to keep up with what is new in the world of information technology
-I love the world of data, artificial intelligence and networks.
+
+I’m a dedicated software engineering student with a deep passion for programming, especially backend development. I love diving into new technologies, staying updated with the latest innovations in the tech world, and constantly expanding my skill set.
+
+I'm particularly fascinated by the world of data, artificial intelligence, and computer networks. I enjoy exploring how data shapes decisions and drives innovation. I have a solid foundation in Python, and I’m continuously learning more about data analysis, automation, and best practices in handling data workflows.
+
+Whether it’s writing clean code, solving real-world problems, or collaborating on meaningful projects — I thrive in environments that challenge me to grow. I believe that technology is not just a tool, but a way to create impact.
+
+Let’s build the future, one line of code at a time. 👨‍💻✨
+
 
 
 ## 🌐 Socials:
