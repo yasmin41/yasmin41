@@ -1,3 +1,9 @@
+## 🚀 About Me:
+
+I am a software engineering student with a passion for programming and learning programming languages with experience in backend development.
+I always try to keep up with what is new in the world of information technology
+I love the world of data, artificial intelligence and networks.
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/yasmin-sy-a23540220) 
