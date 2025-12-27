@@ -6,8 +6,8 @@
 
 <div align="center">
   <a href="https://github.com/yasmin41">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&pause=1000&center=true&vCenter=true&width=500&color=9B59B6&lines=Hi%2C+I'm+Yasmin+%F0%9F%91%8B;Software+Engineering+Student;Back-End+Developer+%7C+.NET+%26;Data+Analysis" alt="Typing SVG" />
-  </a>
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&pause=1000&center=true&vCenter=true&width=500&color=9B59B6&lines=Hi%2C+I'm+Yasmin+%F0%9F%91%8B;Software+Engineering;Back-End+Developer+%7C+.NET+%26;Data+Analysis" alt="Typing SVG" />
+  </a
 </div>
 
 <div align="left">
