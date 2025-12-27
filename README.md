@@ -1,113 +1,104 @@
-<!-- ===== Header + Typing ===== -->
 <div align="center">
-  <div>
-    <a href="https://github.com/yasmin41">
-      <img style="width: 100%" 
-        src="https://capsule-render.vercel.app/api?
-        type=waving
-        &height=100
-        &section=header
-        &reversal=false
-        &text=Welcome%20to%20MeNa’s%20GitHub%20👋
-        &fontSize=25
-        &fontColor=FFFFFF
-        &fontAlign=50
-        &fontAlignY=50
-        &textBg=false
-        &color=gradient
-        &customColorList=12,13,14" />
-    </a>
-  </div>
-
   <a href="https://github.com/yasmin41">
-    <img 
-      src="https://readme-typing-svg.demolab.com?
-      font=JetBrains+Mono
-      &pause=1000
-      &center=true
-      &vCenter=true
-      &width=520
-      &color=C084FC
-      &lines=Hi%2C+I'm+MeNa+💜;
-      Software+Engineering+Graduate;
-      AI+%7C+Machine+Learning;
-      Breast+Cancer+Detection+Project;
-      Always+Learning+New+Things" 
-      alt="Typing SVG" />
+    <img style="width: 100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=header&reversal=false&text=Welcome%20to%20my%20GitHub%20%F0%9F%91%8B&fontSize=25&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=gradient&customColorList=0,2,30" />
   </a>
+</div>
+
+<div align="center">
+  <a href="https://github.com/yasmin41">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&pause=1000&center=true&vCenter=true&width=500&color=0077B5&lines=Hi%2C+I'm+Yasmin+%F0%9F%91%8B;Software+Engineering+Student;Back-End+Developer+%7C+.NET+%26+Python;Data+Analysis+%26+AI+Enthusiast;Building+the+Future+with+Code" alt="Typing SVG" />
+  </a>
+</div>
+
+<div align="left">
+<h2>👩‍💻 About Me</h2>
+
+<p>
+I am a dedicated <b>Software Engineering Student</b> with a deep passion for <b>Back-End Development</b> and <b>Data Intelligence</b>. I love diving into new technologies, from crafting robust APIs to exploring how AI shapes our decisions.
+</p>
+
+<ul>
+  <li>🚀 Specializing in <b>.NET</b> and <b>Python</b> ecosystems.</li>
+  <li>🤖 Fascinated by <b>Artificial Intelligence</b> and <b>Computer Networks</b>.</li>
+  <li>📊 Analyzing data to drive innovation and automation.</li>
+  <li>🎯 Committed to writing <b>Clean Code</b> and solving real-world problems.</li>
+</ul>
 </div>
 
 ---
 
-## 💜 About Me:
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=50&section=header&text=Tech%20Stack&fontSize=20&fontColor=FFFFFF&color=0077B5" />
+</div>
 
-I’m a dedicated software engineering student with a deep passion for programming, especially backend development. I love diving into new technologies, staying updated with the latest innovations in the tech world, and constantly expanding my skill set.
+<br>
 
-I'm particularly fascinated by the world of data, artificial intelligence, and computer networks. I enjoy exploring how data shapes decisions and drives innovation. I have a solid foundation in Python, and I’m continuously learning more about data analysis, automation, and best practices in handling data workflows.
+<div align="center">
+  <table>
+    <tr>
+      <th>Languages</th>
+      <td>
+        <img src="https://skillicons.dev/icons?i=python,cs,cpp,java,js" height="40" alt="Languages" />
+      </td>
+    </tr>
+    <tr>
+      <th>Backend & Web</th>
+      <td>
+        <img src="https://skillicons.dev/icons?i=dotnet,php,html,css,apache" height="40" alt="Backend" />
+      </td>
+    </tr>
+    <tr>
+      <th>Data & DB</th>
+      <td>
+        <img src="https://skillicons.dev/icons?i=mysql,postgres,mssql,sqlite" height="40" alt="Databases" />
+      </td>
+    </tr>
+    <tr>
+      <th>Tools</th>
+      <td>
+        <img src="https://skillicons.dev/icons?i=git,github,docker,figma" height="40" alt="Tools" />
+      </td>
+    </tr>
+  </table>
+</div>
 
-Whether it’s writing clean code, solving real-world problems, or collaborating on meaningful projects — I thrive in environments that challenge me to grow. I believe that technology is not just a tool, but a way to create impact.
-
-Let’s build the future, one line of code at a time. ✨
-
----
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-C084FC?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yasmin-sy-a23540220)
-
----
-
-## 💻 Tech Stack:
-
-### 🧠 Programming Languages
-![Python](https://img.shields.io/badge/Python-7C3AED?style=for-the-badge&logo=python&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-8B5CF6?style=for-the-badge&logo=csharp&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-A78BFA?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/Java-6D28D9?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-5B21B6?style=for-the-badge&logo=javascript&logoColor=white)
-
-### 🌐 Web & Backend
-![.NET](https://img.shields.io/badge/.NET-7C3AED?style=for-the-badge&logo=.net&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-8B5CF6?style=for-the-badge&logo=php&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-A78BFA?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-6D28D9?style=for-the-badge&logo=css3&logoColor=white)
-![Apache](https://img.shields.io/badge/Apache-5B21B6?style=for-the-badge&logo=apache&logoColor=white)
-
-### 🗄️ Databases & Data
-![MySQL](https://img.shields.io/badge/MySQL-7C3AED?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/Postgres-8B5CF6?style=for-the-badge&logo=postgresql&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL%20Server-A78BFA?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-6D28D9?style=for-the-badge&logo=sqlite&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-5B21B6?style=for-the-badge&logo=powerbi&logoColor=white)
-
-### 🛠️ Tools & Platforms
-![Git](https://img.shields.io/badge/Git-7C3AED?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-8B5CF6?style=for-the-badge&logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-A78BFA?style=for-the-badge&logo=docker&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-6D28D9?style=for-the-badge&logo=figma&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-5B21B6?style=for-the-badge&logo=canva&logoColor=white)
-![Trello](https://img.shields.io/badge/Trello-7C3AED?style=for-the-badge&logo=trello&logoColor=white)
+<br>
 
 ---
 
-## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=yasmin41&theme=radical&hide_border=true)
-![](https://nirzak-streak-stats.vercel.app/?user=yasmin41&theme=radical&hide_border=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=yasmin41&layout=compact&theme=radical&hide_border=true)
+<div align="left">
+<h2>📊 GitHub Activity</h2>
+</div>
 
----
-
-[![](https://visitcount.itsvg.in/api?id=yasmin41&icon=5&color=12)](https://visitcount.itsvg.in)
-
-<!-- ===== Footer ===== -->
 <div align="center">
   <a href="https://github.com/yasmin41">
-    <img style="width: 100%"
-      src="https://capsule-render.vercel.app/api?
-      type=waving
-      &height=120
-      &section=footer
-      &color=gradient
-      &customColorList=12,13,14" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=yasmin41&radius=16&theme=tokyo-night&area=false&order=5&hide_border=true&hide_title=true&color=0077B5&line=0077B5&point=FFFFFF" height="300" alt="activity-graph" />
+  </a>
+  <br><br>
+  <img src="https://github-readme-stats.vercel.app/api?username=yasmin41&theme=tokyo-night&hide_border=true&include_all_commits=true&count_private=false&title_color=0077B5&icon_color=0077B5" height="150" alt="stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yasmin41&theme=tokyo-night&hide_border=true&layout=compact&title_color=0077B5&icon_color=0077B5" height="150" alt="languages" />
+</div>
+
+<br>
+
+---
+
+<div align="center">
+  <h2>🤝 Connect With Me</h2>
+  <a href="https://linkedin.com/in/yasmin-sy-a23540220">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="40" />
+  </a>
+  <a href="https://github.com/yasmin41">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height="40" />
   </a>
 </div>
 
+<br>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=yasmin41&color=0077B5&style=for-the-badge" alt="Profile views" />
+  <br><br>
+  <a href="https://github.com/yasmin41">
+    <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0077B5" />
+  </a>
+</div>
