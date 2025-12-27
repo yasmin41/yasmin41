@@ -86,7 +86,7 @@ I am a dedicated <b>Software Engineering Student</b> with a deep passion for <b>
 
 <div align="center">
   <h2>🤝 Connect With Me</h2>
-  <a href="https://linkedin.com/in/yasmin-sy-a23540220">
+  <a href="https://www.linkedin.com/in/yasmin-sy/">
     <img src="https://img.shields.io/badge/LinkedIn-9B59B6?style=for-the-badge&logo=linkedin&logoColor=white" height="40" />
   </a>
   <a href="https://github.com/yasmin41">
