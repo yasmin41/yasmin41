@@ -1,13 +1,13 @@
 <div align="center">
   <a href="https://github.com/yasmin41">
-    <img style="width: 100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=header&reversal=false&text=Welcome%20to%20my%20GitHub%20%F0%9F%91%8B&fontSize=25&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=gradient&customColorList=0,2,25" />
-    </a>
+    <img style="width: 100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=header&text=Welcome%20to%20my%20GitHub%20%F0%9F%91%8B&fontSize=25&fontColor=FFFFFF&color=9B59B6" />
+  </a>
 </div>
 
 <div align="center">
   <a href="https://github.com/yasmin41">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&pause=1000&center=true&vCenter=true&width=500&color=9B59B6&lines=Hi%2C+I'm+Yasmin+%F0%9F%91%8B;Software+Engineering;Back-End+Developer+%7C+.NET+%26;Data+Analysis" alt="Typing SVG" />
-  </a
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&pause=1000&center=true&vCenter=true&width=500&color=9B59B6&lines=Hi%2C+I'm+Yasmin+%F0%9F%91%8B;Software+Engineering;Back-End+Developer+%7C+.NET" alt="Typing SVG" />
+  </a>
 </div>
 
 <div align="left">
@@ -75,8 +75,8 @@ I am a dedicated <b>Software Engineering Student</b> with a deep passion for <b>
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=yasmin41&radius=16&theme=tokyo-night&area=false&order=5&hide_border=true&hide_title=true&color=9B59B6&line=9B59B6&point=FFFFFF" height="300" alt="activity-graph" />
   </a>
   <br><br>
-  <img src="https://github-readme-stats.vercel.app/api?username=yasmin41&theme=tokyo-night&hide_border=true&include_all_commits=true&count_private=false&title_color=9B59B6&icon_color=9B59B6" height="150" alt="stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yasmin41&theme=tokyo-night&hide_border=true&layout=compact&title_color=9B59B6&icon_color=9B59B6" height="150" alt="languages" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=yasmin41&theme=tokyo-night&hide_border=true&include_all_commits=true&count_private=false&title_color=9B59B6&icon_color=9B59B6" height="150" alt="stats" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=yasmin41&theme=tokyo-night&hide_border=true&layout=compact&title_color=9B59B6&icon_color=9B59B6" height="150" alt="languages" />
 </div>
 
 <br>
