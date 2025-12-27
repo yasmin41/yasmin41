@@ -17,7 +17,25 @@
         &customColorList=12,13,14" />
     </a>
   </div>
+
+  <a href="https://github.com/yasmin41">
+    <img 
+      src="https://readme-typing-svg.demolab.com?
+      font=JetBrains+Mono
+      &pause=1000
+      &center=true
+      &vCenter=true
+      &width=520
+      &color=C084FC
+      &lines=Hi%2C+I'm+MeNa+💜;
+      Software+Engineering+Graduate;
+      AI+%7C+Machine+Learning;
+      Breast+Cancer+Detection+Project;
+      Always+Learning+New+Things" 
+      alt="Typing SVG" />
+  </a>
 </div>
+
 
 
 ## 💜 About Me:
