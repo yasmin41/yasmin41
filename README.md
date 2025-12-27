@@ -47,11 +47,13 @@ I am a dedicated <b>Software Engineering Student</b> with a deep passion for <b>
         <img src="https://skillicons.dev/icons?i=dotnet,php,html,css,apache" height="40" alt="Backend" />
       </td>
     </tr>
-   <tr>
+     <tr>
       <th>Data & DB</th>
       <td>
-        <img src="https://skillicons.dev/icons?i=mssql,mysql,postgres,sqlite&theme=dark" height="40" alt="Databases" />
+        <img src="https://skillicons.dev/icons?i=mssql&theme=dark" height="40" alt="MSSQL" />
+        <img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite&theme=dark" height="40" alt="Databases" />
       </td>
+    </tr>
     </tr>
     <tr>
       <th>Tools</th>
