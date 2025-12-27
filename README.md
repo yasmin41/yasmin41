@@ -1,6 +1,24 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=C084FC&height=150&section=header&text=Welcome%20to%20my%20GitHub%20💜&fontSize=40&fontColor=FFFFFF" />
+  <div>
+    <a href="https://github.com/yasmin41">
+      <img style="width: 100%" 
+        src="https://capsule-render.vercel.app/api?
+        type=waving
+        &height=100
+        &section=header
+        &reversal=false
+        &text=Welcome%20to%20MeNa’s%20GitHub%20👋
+        &fontSize=25
+        &fontColor=FFFFFF
+        &fontAlign=50
+        &fontAlignY=50
+        &textBg=false
+        &color=gradient
+        &customColorList=12,13,14" />
+    </a>
+  </div>
 </div>
+
 
 ## 💜 About Me:
 
