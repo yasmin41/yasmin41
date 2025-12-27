@@ -50,7 +50,7 @@ I am a dedicated <b>Software Engineering Student</b> with a deep passion for <b>
      <tr>
       <th>Data & DB</th>
       <td>
-        <img src="https://skillicons.dev/icons?i=msmsql&theme=dark" height="40" alt="MSSQL" />
+        <img src="https://skillicons.dev/icons?i=ssm&theme=dark" height="40" alt="MSSQL" />
         <img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite&theme=dark" height="40" alt="Databases" />
       </td>
     </tr>
