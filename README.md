@@ -1,3 +1,4 @@
+<!-- ===== Header + Typing ===== -->
 <div align="center">
   <div>
     <a href="https://github.com/yasmin41">
@@ -36,7 +37,7 @@
   </a>
 </div>
 
-
+---
 
 ## 💜 About Me:
 
@@ -96,3 +97,17 @@ Let’s build the future, one line of code at a time. ✨
 ---
 
 [![](https://visitcount.itsvg.in/api?id=yasmin41&icon=5&color=12)](https://visitcount.itsvg.in)
+
+<!-- ===== Footer ===== -->
+<div align="center">
+  <a href="https://github.com/yasmin41">
+    <img style="width: 100%"
+      src="https://capsule-render.vercel.app/api?
+      type=waving
+      &height=120
+      &section=footer
+      &color=gradient
+      &customColorList=12,13,14" />
+  </a>
+</div>
+
