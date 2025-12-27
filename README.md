@@ -47,10 +47,13 @@ I am a dedicated <b>Software Engineering Student</b> with a deep passion for <b>
         <img src="https://skillicons.dev/icons?i=dotnet,php,html,css,apache" height="40" alt="Backend" />
       </td>
     </tr>
-    <tr>
+   <tr>
       <th>Data & DB</th>
       <td>
-        <img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite" height="40" alt="Databases" />
+        <img src="https://img.shields.io/badge/MySQL-9B59B6?style=for-the-badge&logo=mysql&logoColor=white" height="30" />
+        <img src="https://img.shields.io/badge/PostgreSQL-9B59B6?style=for-the-badge&logo=postgresql&logoColor=white" height="30" />
+        <img src="https://img.shields.io/badge/SQL%20Server-9B59B6?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" height="30" />
+        <img src="https://img.shields.io/badge/SQLite-9B59B6?style=for-the-badge&logo=sqlite&logoColor=white" height="30" />
       </td>
     </tr>
     <tr>
